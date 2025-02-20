@@ -54,3 +54,7 @@ The project will generate:
 - A scatter plot showing sales vs. profit by product category.
 - A map visualization displaying sales data by city.
 - An interactive web-based dashboard for real-time data exploration.
+
+## Special Thanks
+
+Special thanks to [Chakrit Thong-ek](https://github.com/thongekchakrit/dashboard_dash_mock_sales) for inspiring the code.
