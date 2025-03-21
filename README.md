@@ -1,6 +1,6 @@
 # How to Build Dashboards in Python
 
-This repository provides a Python-based solution for building interactive dashboards using Dash and Plotly. It demonstrates how to visualize sales data effectively, extract key performance indicators (KPIs), and generate insights through data-driven visualizations. The project loads sales and product data from Excel files and processes them using Pandas before creating interactive dashboards.
+This repository provides a Python-based solution for building interactive dashboards using Dash and Plotly. It demonstrates how to visualize sales data effectively, extract key performance indicators (KPIs), and generate insights through data-driven visualizations. The project loads sales and product data from Excel files and processes them using Pandas before creating interactive dashboards. For a detailed explanation of the code in this repository, visit the page: [How to Build Python Dashboards by ProjectPro](https://www.projectpro.io/article/build-python-dashboards/1102)
 
 ## Project Structure
 
